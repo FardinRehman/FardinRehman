@@ -1,163 +1,158 @@
 <div align="center">
 
-![Waving Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Fardin%20Rehman&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=58&descSize=22)
-
-<a href="https://github.com/FardinRehman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Building+with+Python%2C+JavaScript%2C+React+%26+Node.js;Exploring+AI%2FML+and+Full-Stack+Development;Building+Rebellion+%26+Dr-Decors" alt="Typing SVG" />
-</a>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&text=FARDIN%20REHMAN&fontColor=ffffff&fontSize=54&fontAlignY=38&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20AI%20%2B%20Full%20Stack%20Builder&descAlignY=61&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=FardinRehman&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/FardinRehman?label=Followers&style=for-the-badge&color=7dd3fc" alt="GitHub Followers" />
+<a href="https://github.com/FardinRehman">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+things+that+look+good+%26+work+hard.;Python+%7C+React+%7C+Node.js+%7C+AI%2FML;Turning+ideas+into+real+products+%F0%9F%9A%80;Always+learning.+Always+building.+Always+shipping." alt="Typing animation" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=FardinRehman&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/FardinRehman?label=FOLLOWERS&style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/FardinRehman?label=STARS&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="Stars" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="90%" />
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## ⚡ `whoami`
 
 ```ts
 const fardin = {
   title: "Computer Science Student",
-  stack: [
-    "Python",
-    "Java",
-    "C",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Express.js",
-    "TensorFlow",
-    "Keras",
-    "OpenCV",
-    "MongoDB",
-    "SQL",
-    "Git",
-    "GitHub",
-    "VS Code"
-  ],
+
+  stack: {
+    languages: ["Python", "Java", "C", "JavaScript"],
+    frontend: ["HTML", "CSS", "React", "Vite"],
+    backend: ["Node.js", "Express.js"],
+    ai_ml: ["TensorFlow", "Keras", "OpenCV", "Machine Learning", "Deep Learning"],
+    databases: ["MongoDB", "SQL"],
+    tools: ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
+  },
+
   launchedProjects: ["Rebellion", "Dr-Decors"],
   certifications: [],
-  status: "Computer Science Student",
+  status: "Building, learning & experimenting",
   openTo: []
 };
 ```
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🔥 Rebellion
+### `◈ BUILD • BREAK • LEARN • REPEAT ◈`
 
-A web application built with a React/Vite frontend and Node/Express backend, with MongoDB, Cloudinary, Google GenAI, and Motion integrations.
+<img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/FULL%20STACK-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-10B981?style=for-the-badge&logo=github&logoColor=white" />
 
-[![Rebellion](https://github-readme-stats.vercel.app/api/pin/?username=FardinRehman&repo=Rebellion&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/FardinRehman/Rebellion)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite, Tailwind CSS, Motion, Lucide React |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| AI | Google GenAI |
-| Media | Cloudinary |
-| Language | TypeScript |
-
-**Live:** [Rebellion](https://rebellion-five.vercel.app/) · **Code:** [GitHub Repository](https://github.com/FardinRehman/Rebellion)
+</div>
 
 ---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/FardinRehman/Rebellion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FardinRehman&repo=Rebellion&theme=tokyonight&bg_color=0f172a&border_color=7c3aed&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" />
+</a>
+
+</div>
+
+### 🏟️ Rebellion
+
+> A modern web application for **Rebellion Sports Arena**, combining a React/Vite frontend with a Node/Express backend and integrated database, media and AI services.
+
+| Layer | Technology |
+|:---|:---|
+| 🎨 Frontend | React · Vite · Tailwind CSS · Motion · Lucide React |
+| ⚙️ Backend | Node.js · Express.js |
+| 🗄️ Database | MongoDB |
+| 🤖 AI | Google GenAI |
+| ☁️ Media | Cloudinary |
+| 💻 Language | TypeScript |
+
+<div align="center">
+
+[![LIVE](https://img.shields.io/badge/◉%20LIVE-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://rebellion-five.vercel.app/)
+[![CODE](https://img.shields.io/badge/⌘%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FardinRehman/Rebellion)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/FardinRehman/Dr-Decors">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FardinRehman&repo=Dr-Decors&theme=tokyonight&bg_color=0f172a&border_color=06b6d4&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" />
+</a>
+
+</div>
 
 ### 🏠 Dr-Decors
 
-A full-stack handcrafted home décor project with a React/Vite frontend, Express backend, MongoDB/Mongoose data layer, authentication, media uploads, and Cloudinary integration.
-
-[![Dr-Decors](https://github-readme-stats.vercel.app/api/pin/?username=FardinRehman&repo=Dr-Decors&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/FardinRehman/Dr-Decors)
+> A full-stack handcrafted home décor platform built around a modern shopping experience, authentication, product management, MongoDB/Mongoose and Cloudinary media handling.
 
 | Layer | Technology |
-|---|---|
-| Frontend | React, Vite, Tailwind CSS, Motion, Lucide React |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, Mongoose |
-| Authentication | JWT, bcryptjs |
-| Media | Cloudinary, Multer |
-| Language | TypeScript |
+|:---|:---|
+| 🎨 Frontend | React · Vite · Tailwind CSS · Motion · Lucide React |
+| ⚙️ Backend | Node.js · Express.js |
+| 🗄️ Database | MongoDB · Mongoose |
+| 🔐 Authentication | JWT · bcryptjs |
+| ☁️ Media | Cloudinary · Multer |
+| 💻 Language | TypeScript |
 
-**Code:** [GitHub Repository](https://github.com/FardinRehman/Dr-Decors)
+<div align="center">
+
+[![CODE](https://img.shields.io/badge/⌘%20CODE-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FardinRehman/Dr-Decors)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Languages" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend" />
-</p>
-
-### Backend / Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="Backend and infrastructure" />
-</p>
-
-### AI / DB
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,mongodb,mysql" alt="AI and databases" />
-</p>
-
-### Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Development tools" />
-</p>
-
-## 📊 GitHub Stats
+# 🧬 Tech Universe
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FardinRehman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&rank_icon=github" alt="Fardin's GitHub Stats" />
+### `LANGUAGES`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinRehman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Fardin's Top Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts&theme=dark" />
+
+### `AI • ML • DATABASE`
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,mongodb,mysql&theme=dark" />
+
+### `DEV TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
 </div>
 
-## 🔥 GitHub Streak
+---
+
+# 📊 GitHub Command Center
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FardinRehman&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=FardinRehman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&ring_color=7c3aed" />
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FardinRehman&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FardinRehman&theme=nord&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false&custom_title=Fardin%27s%20Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</div>
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fardin-rehman-04618032a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/fardin_rehman_37/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/FardinRehman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinRehman&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1&langs_count=8" />
 
 </div>
 
@@ -165,6 +160,60 @@ A full-stack handcrafted home décor project with a React/Vite frontend, Express
 
 <div align="center">
 
-![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:7dd3fc&height=120&section=footer&animation=twinkling)
+<img src="https://streak-stats.demolab.com?user=FardinRehman&theme=tokyonight&hide_border=true&background=0F172A&stroke=312E81&ring=7C3AED&fire=F59E0B&currStreakLabel=67E8F9&sideLabels=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" width="75%" />
+
+</div>
+
+---
+
+# 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FardinRehman&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+# 📈 Contribution Matrix
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FardinRehman&bg_color=0f172a&color=67e8f9&line=7c3aed&point=22d3ee&area_color=312e81&area=true&hide_border=true&custom_title=Fardin%27s%20Contribution%20Matrix" width="98%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/FardinRehman">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" />
+</a>
+<a href="https://www.linkedin.com/in/fardin-rehman-04618032a">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="https://www.instagram.com/fardin_rehman_37/">
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=F472B6" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7c3aed" width="60%" />
+
+<br/><br/>
+
+<sub>⚡ Crafted with curiosity · Powered by code · Always building</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06b6d4,35:7c3aed,70:312e81,100:0f172a&animation=twinkling" width="100%" />
 
 </div>
